@@ -1,6 +1,6 @@
 
 //adapted  from Rulph chassing book
-//NUCES FAST ( Munzir Ahmad)
+//NUCES FAST (Teacher: Munzir Ahmad)
 
 #include "dsk6713_aic23.h"  			//support file for codec,DSK
 Uint32 fs = DSK6713_AIC23_FREQ_8KHZ;//set sampling rate
